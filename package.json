@@ -1,0 +1,8 @@
+{
+  "name": "hire-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MostafaRastegar/hire-demo.git",
+  "author": "mostafa rastegar <m.rastegar991@gmail.com>",
+  "license": "MIT"
+}
